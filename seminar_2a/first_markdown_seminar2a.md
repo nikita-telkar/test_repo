@@ -3,7 +3,7 @@ first\_markdown
 Nikita Telkar
 January 13, 2020
 
-## R Markdown
+### R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax
 for authoring HTML, PDF, and MS Word documents. For more details on
@@ -33,3 +33,25 @@ You can also embed plots, for example:
 
 Note that the `echo = FALSE` parameter was added to the code chunk to
 prevent printing of the R code that generated the plot.
+
+-----
+
+  - Fruits
+      - apples
+      - bananas
+      - grapes
+  - Vegetables
+      - carrots
+      - brocoli
+
+scary
+
+1.  ocelots
+2.  bears
+3.  tigers
+
+Not scary
+
+1.  elephants
+2.  monkeys
+3.  rabbits
