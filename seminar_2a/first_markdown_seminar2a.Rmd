@@ -1,8 +1,10 @@
 ---
 title: "first_markdown"
-author: "Nikita Telkar"
+author: "Nikita Telkar"  
 date: "January 13, 2020"
 output: github_document
+
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
